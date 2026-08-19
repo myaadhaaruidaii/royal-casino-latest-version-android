@@ -4,7 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="" />
+  <meta name="google-site-verification" content="lwqt6qGqWT7VzmN7Rh1j8p6V37sh5g4V9mVbdRhZ3rM" />
+  <link rel="canonical" href="https://royal-casino-latest-version-a49923db1b67.herokuapp.com/" />
   <title>Royal Casino Latest Version | Android Features, Design, and Compatibility</title>
   <meta name="description" content="Discover the Royal Casino latest version for Android. Explore features, stunning design, and device compatibility in this detailed guide. Download now for top casino fun." />
   <style>
